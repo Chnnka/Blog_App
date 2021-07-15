@@ -1,0 +1,19 @@
+body {
+    background-color: darkslategray;
+
+}
+
+#card-header {
+    background-color: darkslategray;
+    color: aliceblue;
+}
+
+#card-body {
+    background-color: darkslategray;
+    color: aliceblue;
+}
+
+#card-footer {
+    background-color: darkslategray;
+    color: aliceblue;
+}
